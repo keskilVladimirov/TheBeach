@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3437c3f44b5b6794dbcefdcee39a7a71, type: 3}
+  m_Name: SkyCollection
+  m_EditorClassIdentifier: 
+  spritesList:
+  - {fileID: 21300000, guid: 8baf492029b6b3644a15ce2b6ae55a7e, type: 3}
+  - {fileID: 21300000, guid: f5197540aa3505f4eb23d90ed89bff12, type: 3}
+  - {fileID: 21300000, guid: 5a0722ad141a26d419e45abe88860de0, type: 3}
+  - {fileID: 21300000, guid: 8c0218a4bed23ea42b7b8cd0c79217ba, type: 3}
+  - {fileID: 21300000, guid: 2b79d76ad3945e143a8bbe8d73802346, type: 3}

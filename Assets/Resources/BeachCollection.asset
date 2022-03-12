@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3437c3f44b5b6794dbcefdcee39a7a71, type: 3}
+  m_Name: BeachCollection
+  m_EditorClassIdentifier: 
+  spritesList:
+  - {fileID: 21300000, guid: 1b18988286394a94ca663c51bf5e2d0f, type: 3}
+  - {fileID: 21300000, guid: 0fcd222bb51db154cac1872af7465ea2, type: 3}
+  - {fileID: 21300000, guid: 74e70a7d65bc0034f941d5d2fb963764, type: 3}
+  - {fileID: 21300000, guid: 74e70a7d65bc0034f941d5d2fb963764, type: 3}
+  - {fileID: 21300000, guid: 18307d822876a7043a3956b9732774b6, type: 3}
